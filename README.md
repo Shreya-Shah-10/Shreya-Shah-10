@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Shreya Shah
+I'm a passionate front-end developer 💻 who loves creating websites and exploring new technologies.
 
-<!--
-**Shreya-Shah-10/Shreya-Shah-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Projects
+- Personal Portfolio - https://github.com/Shreya-Shah-10/Personal-Portfolio-Website
+- Blog Website - https://github.com/Shreya-Shah-10/Blog-Website
+- E-commerce Product Page - https://github.com/Shreya-Shah-10/E-commerce-Product-Page
 
-Here are some ideas to get you started:
+## 📫 Contact Me
+- Email: shreyaks10117@gmail.com
+- LinkedIn: [Shreya Shah ] (https://www.linkedin.com/in/shreya-shah-7813572ba/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for visiting my Github profile!
+
